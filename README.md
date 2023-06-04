@@ -21,7 +21,7 @@ Olfactory neuroblastoma is a rare tumor arising from the olfactory cleft region 
 
 
 ## Manuscript
-For more details, please see our full manuscript at (to be posted upon final acceptance)
+For more details, please see our full manuscript at: https://doi.org/10.1158/2767-9764.CRC-23-0013
 
 # Data
 All datasets used in this manuscript are available on NCBI GEO at accession numbers [GSE118995](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118995), [GSE80249](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE80249), [GSE139522](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139522), and [GSE184117](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184117). 
